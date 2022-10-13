@@ -1,0 +1,196 @@
+-------------------------------------
+NSH
+-------------------------------------
+Added Symbols
+Sa  13May2021	2 Hrs	Added Annex Elevators left & Right Symbols
+Mon 17May2021	4 Hrs	Add Annex Elevators, Shear Roll, BMM & BMM_Large Symbols
+
+----------------------------------------------
+Carriere
+----------------------------------------------
+Tue 16Nov2021	8 Hrs	Configured Sheller PLC2 and added Ethernet connections to MCC2 Drives.
+Thr 18Nov2021	8 Hrs	Configured Sheller PLC2 Ethernet connections to MCC2 Drives.
+Mon 29Nov2021	8 Hrs	Configured Sheller PLC3 Ethernet connections to MCC3 & MCCF Drives.
+Tue 30Nov2021	8 Hrs	Configured Sheller PLC3 Ethernet connections to MCC3 & MCCF Drives & PLC2 <-> PLC3 Messages.
+Thu 20Jan2022	2 Hrs	Spoke with Rick, and then Modified System PLC Arrangement Document and sent to Rick.
+          22Jan2022   Sent Invoice 2201 to Jake: 34 Hours, $2380.00.
+
+Wed 09Feb2022	8 Hrs	Wrote HMI Description & Security Document for Thursday Zoom Meeting
+Thr 10Feb2022	4 Hrs	Updated MCC Drawing for Rick & Attended Zoom Meeting.
+Thr 24Feb2022	4 Hrs	Modified positions of Room Floor Gates, from North to South, to South to North in HMI & Attended Zoom Meeting.
+Sat 26Feb2022	4 Hrs	Modified positions of Room Floor Gates, from North to South, to South to North in PLC
+Mon 28Feb2022	6 Hrs	Setup Flex I-O IP Addresses
+Tue 01Mar2022	7 Hrs	Installed Software in South Pedistal Computer
+Wed 02Mar2022	6 Hrs	Installed Programs in 3 PLC's and verified Connections between PLC and Flex I-O
+Thu 03Mar2022	7 Hrs	Attended Meeting, and got South Pedistal Computer configured and set up for Remote Control
+Fri 04Mar2022	6 Hrs	Configured Ethernet Switches and started PLC to Drives Comissioning.
+Mon 07Mar2022	7 Hrs	PLC to Drives Comissioning.
+Tue 08Mar2022	7 Hrs	Completed PLC to Drives Comissioning.
+Wed 09Mar2022	4 Hrs	Attended Meeting, Tested Room 9 Gate 16 with HMI and verified Gates IO is OK.
+Fri 11Mar2022	3 Hrs	Wrote Scale and Bin Filling Document	
+          11Mar2022   Sent Invoice 2202 to Jake: 73 Hours, $5110.00. + Expenses = $6172.96
+
+Mon 14Mar2022	8 Hrs	Maped IO from Rick & Johns list to PLC Program.	
+Tue 15Mar2022	8 Hrs	Maped IO from Rick & Johns list to PLC Program.
+Wed 16Mar2022	8 Hrs	Programmed South Floor Gate Select and Status Buttons on HMI
+Thu 17Mar2022	8 Hrs	Finished Programming Buttons on HMI & Attended Meeting.
+Fri 18Mar2022	8 Hrs	Modified PLC Logic to allow only one Room to Select Floor Gates at a time
+Sa 19Mar2022	5 Hrs	Finished PLC Logic to allow only one Room to Select Floor Gates at a time
+Su 20Mar2022	5 Hrs	Tested Floor Gate Select Logic
+Mon 21Mar2022	8 Hrs	Deleted non Used Tags from HMI Data Base, Help Rick test Floor Gates with HMI
+Tue 22Mar2022	8 Hrs	Deleted non Used Tags from HMI Data Base.
+Wed 23Mar2022	8 Hrs	Programmed North Gates Select Screen
+Thu 24Mar2022	8 Hrs	Programmed North Gates Select Screen
+Fri 25Mar2022	8 Hrs	Programmed North Gates Select Screen
+Mon 28Mar2022	8 Hrs	Programmed North Gates Select Screen
+Tue 28Mar2022	8 Hrs	Programmed North Bulk Fans Screen
+Wed 29Mar2022	6 Hrs	Tested North Bulk Infeed, Gates Select and Fans Screens
+Tue 05Apr2022	6 Hrs	Updated MCC1, Drawing & HMI Popup Screen Events
+Wed 06Apr2022	3 Hrs	Read DeviceMaster EIP-2304 Manual for Scales interface
+Thu 07Apr2022	3 Hrs	Attend Meeting, Add BOM for Sheller IO, Ask About Sorter Interface
+Fri 09Apr2022	2 Hrs	Read DeviceMaster EIP-2304 Manual for Scales interface
+        18Apr2022  Sent Invoice 2203 to Jake 126 Hours = $8820.00  Paid 16May.
+
+Thu 21Apr2022	3 Hrs	Attend Meeting, Added 4 Bin Dump Panels to System Layout Document
+Fri 22Apr2022	2 Hrs	Designed PLC Logic for Scale Bin Fill Stations
+Mon 25Apr2022	4 Hrs	Designed PLC Logic for Scale Bin Fill Stations
+Tue 26Apr2022	4 Hrs	Designed HMI Screens for Bin Scale Tablets
+Wed 11May2022	4 Hrs	Made Speed Data Entry Only Visible for VFD's, Set Startup Times
+Mon 15May2022	8 Hrs	Programmed MCCs Popup Screen
+Tue 16May2022	8 Hrs	Programmed MCCs Popup Screen
+Thu 19May2022	3 Hrs	Attended Meeting. Made Requirement List for Chuy
+Thu 26May2022	3 Hrs	Attended Meeting. Reviewed Files from Chuy.
+Fri 27May2022	2 Hrs	Worked with Phil and Rick to get Remote Computer working.
+Sat 28May2022	3 Hrs	Documented HMI Screens & Security
+Mon 30May2022	3 Hrs	Documented HMI Screens & Security
+Tue 31May2022	8 Hrs	Imported New Tags from Chuy's Spread Sheet to PLC & HMI
+Wed 01Jun2022	4 Hrs	Added Symbols & Popup Window for Sorters HMI Screens.
+Thu 02Jun2022	4 Hrs	Attended Meeting, Added Symbols & Popup Window for Sorters HMI Screens.
+Fri 03Jun2022	4 Hrs	Tested Symbols & Popup Window for Sorters & Scales HMI Screens.
+     Fri 03Jun2022  Sent Invoice 2205 to Jake 67 Hours = $4690.00
+
+Mon 06Jun2022	4 Hrs	Added 5 Motors from MCC1, Column 21 to Bulk PLC & HMI.
+Wed 08Jun2022	8 Hrs	Bumped Bulk Motors with Rick
+Thr 09Jun2022	8 Hrs	Bumped Bulk Motors with Rick
+Tue 14Jun2022	8 Hrs	Programmed DBE1 Gates
+Wed 15Jun2022	8 Hrs	Set up Bulk to run Room 3 to Trucks & Programmed DBE1 Gates
+Thr 16Jun2022	8 Hrs	Attended Meeting. Updated MCC1 Motor list and Sent To Chuy
+Fri 17Jun2022	5 Hrs	Updated MCC2 Drawing & Sent to Rick
+Mon 20Jun2022	5 Hrs	Bumped Bulk Motors with Rick
+Sat 25Jun2022	2 Hrs	Made Ignition Symbols Document and emailed to Chuy.
+Thr 30Jun2022	4 Hrs	Attended Meeting at Carriere. Showed Jose Midena HMI Operation.
+Mon 04Jul2022	3 Hrs	Added Estops to Bulk HMI Screens
+Tue 05Jul2022	5 Hrs	Added MCC Bucket Numbers to Chuy's spread sheet
+Wed 06Jul2022	7 Hrs	Programmed Sheller Motors in PLC2
+Thr 07Jul2022	6 Hrs	Attended meeting. Programmed Sheller Motors in PLC2
+Thr 06Jul2022	4 Hrs	Programmed Sheller Motors in PLC2
+Fri 08Jul2022	6 Hrs	Programmed Sheller Motors in PLC2
+Mon 11Jul2022	2 Hrs	Programmed Sheller Motors in HMI
+Tue 12Jul2022	6 Hrs	Programmed Sheller Motors in HMI
+Wed 13Jul2022	8 Hrs	Programmed Sheller Motors in HMI
+Thu 14Jul2022	4 Hrs	Programmed Sheller Motors in PLC2
+Fri 15Jul2022	8 Hrs	Programmed North Bulk IO in PLC1
+Sa 14Jul2022	4 Hrs	Programmed Alarms& Messages in Bulk & Sheller
+Mon 18Jul2022	4 Hrs	Programmed Room 1-18 Bindicators, Sheller Gate.
+Wed 20Jul2022	8 Hrs	Sheller Gates, DBE1 1-8
+Thu 21Jul2022	3 Hrs	Programmed North Bulk Rooms: Only One Floor Gate when Going North 
+Fri 21Jul2022	3 Hrs	Programmed Show MCC Screen with Hollow Rectangle with Variable Height
+Sa 21Jul2022	2 Hrs	Programmed Show MCC Screen with Hollow Rectangle with Variable Height
+Mon 25Jul2022	8 Hrs	Programmed Bin Dumps, HMI & PLC 
+Tue 26Jul2022	4 Hrs	Programmed Bin Dumps & Sorter AOI's, HMI & PLC 
+Wed 27Jul2022	5 Hrs	Programmed Modbus TCP OPC-UA Connection to Belt-Way Scale
+Thu 28Jul2022	5 Hrs	Programmed HMI Belt-Way Scale Screen and Tested Modbus TCP OPC-UA Connection
+     Fri 29Jul2022  Sent Invoice 2206 to Jake 165 Hours = $11550.00
+
+Mon 01Aug2022	3 Hrs	Finished HMI Belt-Way Scale Screen and Added Motors Help Screen
+Tue 09Aug2022	2 Hrs	Tried to commission North Bulk Flex IO. Sent email to Jose.
+Sun 09Aug2022	2 Hrs	Added Timer to Floor Screw Logic.
+Wed 17Aug2022	6 Hrs	Programmed Sheller IO from Rick Notes
+Thu 18Aug2022	6 Hrs	Programmed Sheller IO from Rick Notes
+Fri 19Aug2022	6 Hrs	Changed Bin Dump Logic. Created UDT_AOI Document to Jose
+Sa 20Aug2022	8 Hrs	Added Divert Gates to Sheller PLC & HMI
+Su 21Aug2022	2 Hrs	Captured and sent Debug files to Inductive Automation for a communications Problem.
+Mon 22Aug2022	6 Hrs	Configured MCC2 Ethernet Switches, Added Debug logs & WireShark for Inductive Automation.
+Tue 23Aug2022	2 Hrs	Configured MCC2 Ethernet Switches
+Tue 30Aug2022	3 Hrs	Installed Allen Bradley Software on new PC
+Wed 31Aug2022	8 Hrs	Started Up MCC2
+Thu 01Sep2022	8 Hrs	Attended Meeting. Started Up MCC2
+Fri 02Sep2022	8 Hrs	Finished Started Up MCC2
+Mon 06Sep2022	8 Hrs	Tested Bulk Louvers & Dampers
+Tue 07Sep2022	8 Hrs	Added Bin dumps and Bin Fillers
+Wed 08Sep2022	8 Hrs	Modified Bin Dumps, Added Motor & Diverters to Bulk
+Thu 09Sep2022	8 Hrs	Added Motor & Diverters to Bulk
+Fri 09Sep2022	4 Hrs	Added Motor & Diverters to Bulk
+Mon 12Sep2022	8 Hrs	Added Sheller to Bulk Radio Buttons & Divert Gates
+Tue 13Sep2022	8 Hrs	Added Sheller to Bulk Radio Buttons & Divert Gates
+Wed 14Sep2022	8 Hrs	Added Sheller HMI Background Screens
+Thu 15Sep2022	6 Hrs	Programmed Sheller to Bulk Startup
+   17Sept Sent Invoice 2210 to Jake   136 Hours
+
+Mon 19Sep2022	8 Hrs	Programmed Sheller Divert Gates
+Tue 20Sep2022	8 Hrs	Programmed Sheller Divert Gates & Bin Scales
+Thu 23Sep2022	8 Hrs	Programmed Sheller Processing Program
+Fri 24Sep2022	8 Hrs	Programmed ESL1, &ESL1 Programs 
+Sa 25Sep2022	4 Hrs	Programmed ESL3, 4 Xray, DCA & Sizer Programs 
+Sun 25Sep2022	4 Hrs	Programmed ESL3, 4, Xray, DCA & Sizer Programs 
+Mon 26Sep2022	9 Hrs	Programmed Old Bulk & Bumped Motors
+Tue 27Sep2022	9 Hrs	Mapped Sheller Panels IO to PLC IO
+Wed 28Sep2022	9 Hrs	Mapped Sheller Panels IO to PLC IO & Verified Bulk Dampers
+Thu 29Sep2022	9 Hrs	Tested Estops, Configured Interface between Old and New Bulk
+Fri 30Sep2022		9 Hrs	Configured Interface between Old and New Bulk
+Mon 03Oct2022	9 Hrs	Modified Bin Dumps to turn Off Syntron when Hopper Low
+Tue 05Oct2022	9 Hrs	Debugged Bin Dumps, Modified Sequences For 4 Subsystems
+Wed 05Oct2022	9 Hrs	Tested Sheller in Automatic Mode. Checked Cyclone FLA
+Thu 06Oct2022	9 Hrs	Tested DBE1 Bin Fill Gates in Automatic Mode. Fixed Gate Problems.
+Fri 07Oct2022		9 Hrs	Made Cyclones a seperate Subsystem, seperated from Process
+Mon 10Oct2022	9 Hrs	Started Up Automatic Scale Fills
+Tue 12Oct2022	9 Hrs	Programmed OldBulk Interface.
+Wed 12Oct2022	9 Hrs	Programmed Ethernet Switch, Flex IO Alarms and Packing Line
+Thr 13Oct2022	9 Hrs	Attended Meeting. Started Programming Sheller Line Bypass Logic
+----------------------------------------------
+
+Hamar
+
+-----------------------------------------------
+DePue
+Mon 29Aug2022	3 Hrs	Download Packaging HMI into Shell HMI, Fix duplicate IP Addresses with PLC's
+----------------------------------------------
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Piava
+----------------------------------------------
+Thr 18Feb2022	3 Hrs	Helped Daryl Reed reprogram two motors
+
+------------------------------------------------------------------
+   Pumps  Job 2466 Troubleshoot Existing 125 HP & 75 HP
+Wed 13Jul2022	2 Hrs	Debugged and Programmed 125 HP Pump Program
+Thu 14Jul2022	3 Hrs	Added new Data Entry Error Screen to Pumps HMI.
+Tue 14Jul2022	1 Hrs	Added Two Behr Ranch PLC Programs to Pumps Folder
+
+Job 2422, New 75 HP
+Tue 02Aug2022	1 Hrs   Downloaded HMI with Lee
+Job 2423, New 100 HP
+12Aug2022	2 Hrs   Downloaded HMI with Lee
+
+12Aug2022	Set Invoice to Tony Pittore   9 Hrs $720.00
+
+--------------------------------------------------------------------
+Sheller:.....Job # AG OOOO456
+Mon 08Aug2022	5 Hrs   Added Three New Motors: M83, 86 & 87 to Program and HMI
+Tue 09Aug2022	3 Hrs   Added New Motor to PLC & HMI Programs.
+Tue 30Aug2022	3 Hrs   Helped Daryl Reed reprogram two motors
+----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+Pacific Farms
+-------------------------------------------------------------------
+
+
+--------------------------------------------------------------------
+Omega Walnuts
+Mon 18Apr2022	3 Hrs	Programmed Bins 1-16, 17-31 & MCC PLC, PLC programs
+Wed 20Apr2022	3 Hrs	Programmed HMI for Bins 1-16 & 17-32
+Mon 09May2022	6 Hrs	Downloaded Programs & Tested with Darryl Reed.
+Wed 14Sep2022	3 Hrs	Finished Programming New Elevator Switches & Added New HMI's
+   Total = 15 Hrs                        21 Sep2022   Sent Invoice 2211 for $800.00  10 Hrs @ $80.00 / Hr
+-------------------------------------------------------------------
